@@ -31,3 +31,14 @@ Elimina todo lo escrito o modificado dentro de un archivo
 Dentro de este archivo modificamos las referecias, para agregar un archivo que deseamos que no sea visto por git
 
 ![.gitignore](<.gitignore.png>)
+
+## Staged Area (Staged)
+En este estado se permite seleccionar los archivos modificados para guardarlos en el commit
+
+### ***git add \<archivo>***
+Agrega un archivo en específico
+### ***git add .***
+Agrega todos los archivos que estan modificados vistos por GIT
+
+### ***git restore --staged \<archivo>***
+Mueve un archivo del staged area a su estado anterior
