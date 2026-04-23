@@ -15,3 +15,5 @@ Cuando un archivo acaba de ser editado en el local y aun no esta en el remoto, e
 Cuando se preparan los archivos y cambios que se desean guardar en el repositorio
 ### Committed
 Cuando el archivo y sus cambios se guardan en el local con un indentificador que pasa al historial
+
+![git states](<Git States.png>)
