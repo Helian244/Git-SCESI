@@ -17,3 +17,17 @@ Cuando se preparan los archivos y cambios que se desean guardar en el repositori
 Cuando el archivo y sus cambios se guardan en el local con un indentificador que pasa al historial
 
 ![git states](<Git States.png>)
+
+## Directorio de Trabajo (Modified)
+### Untracked
+Archivo sin seguimiento, usualmente recien creado, que no tiene una version anterior
+### Modified
+Un archivo con version previa, pero que ha sido modificado, eliminado o con nuevo nombre
+
+### ***git restore \<archivo>***
+Elimina todo lo escrito o modificado dentro de un archivo
+
+### ***.gitignore***
+Dentro de este archivo modificamos las referecias, para agregar un archivo que deseamos que no sea visto por git
+
+![.gitignore](<.gitignore.png>)
