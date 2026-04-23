@@ -42,3 +42,10 @@ Agrega todos los archivos que estan modificados vistos por GIT
 
 ### ***git restore --staged \<archivo>***
 Mueve un archivo del staged area a su estado anterior
+
+## Repositorio Local (Committed)
+En este estado se guarda un punto de guardado en el historial
+### ***git commit -m "mensaje"***
+Para guardar todos los cambios en el staged area
+### ***git reset --soft HEAD~1***
+Para deshacer los cambios del último commit
