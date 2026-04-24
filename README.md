@@ -49,3 +49,13 @@ En este estado se guarda un punto de guardado en el historial
 Para guardar todos los cambios en el staged area
 ### ***git reset --soft HEAD~1***
 Para deshacer los cambios del último commit
+
+# Clase 4
+## ***git remote***
+Nos permite gestionar nuestra conexion con repositorios remotos, direcciona donde lleva o traer los cambios al local
+### ***git remote -v***
+Nos deja ver las URLs que estan siendo apuntadas por nuestro repositorio
+### ***git remote add \<apodo> "url"***
+Vincula nuestro local con un repo de la nube
+### ***git remote set-url \<apodo> "url"***
+Cambia la URL donde apunta nuestro local
