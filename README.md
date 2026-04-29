@@ -64,3 +64,11 @@ Cambia la URL donde apunta nuestro local
 ## Ramas
 De las principales funciones para llevar a cabo un mejor control del código.
 Bifurca el estado del código y crea un nuevo camino para la evolucion del mismo en paralelo a otras modificaciones.
+## Git Branch
+Es un comando que nos permite gestionar las ramas que tiene el proyecto
+### ***git branch***
+Nos permite listar las ramas y ver donde esta el HEAD
+### ***git branch \<rama>***
+Crea una rama a partir de la rama en la que nos encontremos
+### ***git branch -D \<rama>***
+Borra la rama
