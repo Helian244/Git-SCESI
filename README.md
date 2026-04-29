@@ -59,3 +59,8 @@ Nos deja ver las URLs que estan siendo apuntadas por nuestro repositorio
 Vincula nuestro local con un repo de la nube
 ### ***git remote set-url \<apodo> "url"***
 Cambia la URL donde apunta nuestro local
+
+# Clase 5
+## Ramas
+De las principales funciones para llevar a cabo un mejor control del código.
+Bifurca el estado del código y crea un nuevo camino para la evolucion del mismo en paralelo a otras modificaciones.
