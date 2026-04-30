@@ -76,3 +76,5 @@ Borra la rama
 # Clase 6
 ## ***git merge***
 Nos permite combinar dos ramas para que tenga ambos commits realizados
+## ***git fetch***
+Permite ver cambios en la rama principal y en las ramas hijas
