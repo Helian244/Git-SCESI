@@ -72,3 +72,7 @@ Nos permite listar las ramas y ver donde esta el HEAD
 Crea una rama a partir de la rama en la que nos encontremos
 ### ***git branch -D \<rama>***
 Borra la rama
+
+# Clase 6
+## ***git merge***
+Nos permite combinar dos ramas para que tenga ambos commits realizados
