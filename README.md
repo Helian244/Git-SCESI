@@ -78,3 +78,7 @@ Borra la rama
 Nos permite combinar dos ramas para que tenga ambos commits realizados
 ## ***git fetch***
 Permite ver cambios en la rama principal y en las ramas hijas
+
+# Clase 7
+## ¿Qué es el Pull Request (PR)?
+Es una petición hecha en Github que permite, al grupo en conjunto o encargado, revisar que rama o contenido se quiere integrar a diferentes ramas o al codigo principal
