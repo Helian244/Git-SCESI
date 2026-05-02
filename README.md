@@ -82,3 +82,8 @@ Permite ver cambios en la rama principal y en las ramas hijas
 # Clase 7
 ## ¿Qué es el Pull Request (PR)?
 Es una petición hecha en Github que permite, al grupo en conjunto o encargado, revisar que rama o contenido se quiere integrar a diferentes ramas o al codigo principal
+
+# Clase 8
+## ***git stash***
+Sirve para guardar temporalmente los cambios en el staging area sin necesidad de hacer un commit
+Nos puede servir para cambiar de rama sin necesidad de un commit, esto suponiendo que no concluiste la tarea o contenido del commit
