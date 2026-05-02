@@ -89,3 +89,5 @@ Sirve para guardar temporalmente los cambios en el staging area sin necesidad de
 Nos puede servir para cambiar de rama sin necesidad de un commit, esto suponiendo que no concluiste la tarea o contenido del commit
 ## ***git status***
 Muestra el estado actual del repo y cuales archivos han cambiado, y ver además cuales estan en staging area, cuales sin trackear y en que rama nos encontramos
+## ***git diff***
+Muestra linea por linea que cambiaron en los archivos despues del ultimo commit
