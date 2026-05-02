@@ -87,3 +87,5 @@ Es una petición hecha en Github que permite, al grupo en conjunto o encargado, 
 ## ***git stash***
 Sirve para guardar temporalmente los cambios en el staging area sin necesidad de hacer un commit
 Nos puede servir para cambiar de rama sin necesidad de un commit, esto suponiendo que no concluiste la tarea o contenido del commit
+## ***git status***
+Muestra el estado actual del repo y cuales archivos han cambiado, y ver además cuales estan en staging area, cuales sin trackear y en que rama nos encontramos
